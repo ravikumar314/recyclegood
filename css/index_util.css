@@ -1,0 +1,24 @@
+.p-l-55 {padding-left: 55px;}
+.p-r-55 {padding-right: 55px;}
+.p-t-65 {padding-top: 65px;}
+.p-b-54 {padding-bottom: 54px;}
+.p-b-49 {padding-bottom: 49px;}
+.m-b-23 {margin-bottom: 23px;}
+
+.p-t-155 {padding-top: 155px;}
+.flex-col-c {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-direction: column;
+	-moz-flex-direction: column;
+	-ms-flex-direction: column;
+	-o-flex-direction: column;
+	flex-direction: column;
+	-ms-align-items: center;
+	align-items: center;
+}
+
+.p-b-17 {padding-bottom: 17px;}

@@ -1,0 +1,73 @@
+.usern{
+    margin-left: 50vw;
+    color:black;
+}
+.nav-brand1{
+    color: black;
+    font-weight: 900;
+}
+.logout{
+    text-decoration: none;
+    color: black;
+}
+.usera{
+    color: black;
+    font-weight: 900;
+    font-size: 1.3rem;
+}
+.hr{
+    color:lightblue;
+    width: 10%;
+    margin: auto;
+    text-align: center;
+    height: 2px;
+    background-color: lightblue;
+}
+.margin-box{
+    margin: 10px;
+}
+.heading
+{
+  text-align: center;
+  font-size: 40px;
+  color:black ;
+}
+.input-container
+{
+    
+    width:100%;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 10px;
+    border-radius: 8px;
+}
+.input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+  }
+  .input-field:focus {
+    border: 2px solid rgb(241, 95, 241);
+  }
+  .icon {
+    padding: 10px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+  }
+  .btnsell{
+      width: 600px;
+      margin: auto;
+      text-align: center;
+  }
+  
+  .card{
+    transition: box-shadow .3s;
+
+  }
+  .card:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  }
